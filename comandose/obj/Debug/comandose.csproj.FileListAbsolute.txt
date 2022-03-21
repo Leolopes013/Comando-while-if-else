@@ -1,0 +1,14 @@
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\bin\Debug\comandose.exe.config
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\bin\Debug\comandose.exe
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\bin\Debug\comandose.pdb
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\obj\Debug\comandose.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\obj\Debug\comandose.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\obj\Debug\comandose.exe
+C:\Users\Lab_03_alu_18\Desktop\comandose\comandose\obj\Debug\comandose.pdb
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\bin\Debug\comandose.exe.config
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\bin\Debug\comandose.exe
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\bin\Debug\comandose.pdb
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\obj\Debug\comandose.csproj.AssemblyReference.cache
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\obj\Debug\comandose.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\obj\Debug\comandose.exe
+C:\Users\Leo\Documents\Repositorios\comandose\comandose\obj\Debug\comandose.pdb
